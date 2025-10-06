@@ -6,6 +6,7 @@ Problem Solving
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Search
@@ -36,4 +37,8 @@ Problem Solving
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
