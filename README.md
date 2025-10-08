@@ -10,11 +10,13 @@ Problem Solving
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Problem Solving
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +55,8 @@ Problem Solving
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+## Sorting
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
