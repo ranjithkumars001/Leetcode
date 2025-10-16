@@ -12,6 +12,7 @@ Problem Solving
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ranjithkumars001/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -59,11 +60,13 @@ Problem Solving
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +94,7 @@ Problem Solving
 ## Math
 |  |
 | ------- |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ranjithkumars001/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
