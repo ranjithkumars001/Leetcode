@@ -30,10 +30,12 @@ Problem Solving
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Problem Solving
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Linked List
 |  |
@@ -126,4 +129,8 @@ Problem Solving
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkumars001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
