@@ -8,6 +8,7 @@ Problem Solving
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkumars001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
+| [0118-pascals-triangle](https://github.com/ranjithkumars001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -91,6 +92,7 @@ Problem Solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ranjithkumars001/Leetcode/tree/master/0118-pascals-triangle) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ranjithkumars001/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
