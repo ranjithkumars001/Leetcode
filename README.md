@@ -15,6 +15,7 @@ Problem Solving
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ranjithkumars001/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ranjithkumars001/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -52,6 +53,7 @@ Problem Solving
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ranjithkumars001/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Problem Solving
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ranjithkumars001/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ranjithkumars001/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ranjithkumars001/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
@@ -132,6 +135,7 @@ Problem Solving
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ranjithkumars001/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Linked List
 |  |
