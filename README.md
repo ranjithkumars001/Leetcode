@@ -22,6 +22,7 @@ Problem Solving
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ranjithkumars001/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ranjithkumars001/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ranjithkumars001/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -52,6 +53,7 @@ Problem Solving
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ranjithkumars001/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Problem Solving
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjithkumars001/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ranjithkumars001/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Problem Solving
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ranjithkumars001/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
