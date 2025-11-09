@@ -107,6 +107,7 @@ Problem Solving
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
@@ -136,6 +137,7 @@ Problem Solving
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ranjithkumars001/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ranjithkumars001/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ranjithkumars001/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
