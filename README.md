@@ -27,6 +27,7 @@ Problem Solving
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ranjithkumars001/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ranjithkumars001/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ Problem Solving
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ranjithkumars001/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ranjithkumars001/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Problem Solving
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ranjithkumars001/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ranjithkumars001/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -187,10 +190,12 @@ Problem Solving
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ranjithkumars001/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ranjithkumars001/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
 |  |
 | ------- |
