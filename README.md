@@ -10,6 +10,7 @@ Problem Solving
 | [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/ranjithkumars001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ranjithkumars001/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0837-most-common-word](https://github.com/ranjithkumars001/Leetcode/tree/master/0837-most-common-word) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
