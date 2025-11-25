@@ -89,6 +89,7 @@ Problem Solving
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjithkumars001/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0837-most-common-word](https://github.com/ranjithkumars001/Leetcode/tree/master/0837-most-common-word) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ranjithkumars001/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ranjithkumars001/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -150,6 +151,7 @@ Problem Solving
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ranjithkumars001/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ranjithkumars001/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ranjithkumars001/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
