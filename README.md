@@ -16,6 +16,7 @@ Problem Solving
 | [1262-greatest-sum-divisible-by-three](https://github.com/ranjithkumars001/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ranjithkumars001/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/ranjithkumars001/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ranjithkumars001/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -92,6 +93,7 @@ Problem Solving
 | [0837-most-common-word](https://github.com/ranjithkumars001/Leetcode/tree/master/0837-most-common-word) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ranjithkumars001/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/ranjithkumars001/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/ranjithkumars001/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ranjithkumars001/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -127,6 +129,7 @@ Problem Solving
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/ranjithkumars001/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ranjithkumars001/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ranjithkumars001/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ranjithkumars001/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
