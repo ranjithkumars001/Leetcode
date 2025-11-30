@@ -27,6 +27,7 @@ Problem Solving
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ranjithkumars001/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ranjithkumars001/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ranjithkumars001/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ranjithkumars001/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ranjithkumars001/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -157,6 +158,7 @@ Problem Solving
 | [2288-count-operations-to-obtain-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ranjithkumars001/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ranjithkumars001/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ranjithkumars001/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
