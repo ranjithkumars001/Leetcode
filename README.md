@@ -183,6 +183,7 @@ Problem Solving
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjithkumars001/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ranjithkumars001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0837-most-common-word](https://github.com/ranjithkumars001/Leetcode/tree/master/0837-most-common-word) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -210,6 +211,7 @@ Problem Solving
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ranjithkumars001/Leetcode/tree/master/0020-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ranjithkumars001/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
