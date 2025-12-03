@@ -48,11 +48,13 @@ Problem Solving
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ranjithkumars001/Leetcode/tree/master/0100-same-tree) |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ranjithkumars001/Leetcode/tree/master/0100-same-tree) |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
@@ -227,4 +229,12 @@ Problem Solving
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ranjithkumars001/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ranjithkumars001/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
