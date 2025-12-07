@@ -160,6 +160,7 @@ Problem Solving
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ranjithkumars001/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ranjithkumars001/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ranjithkumars001/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ranjithkumars001/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
