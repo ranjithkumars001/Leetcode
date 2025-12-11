@@ -30,6 +30,7 @@ Problem Solving
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ranjithkumars001/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ranjithkumars001/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/ranjithkumars001/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ranjithkumars001/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ranjithkumars001/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -102,6 +103,7 @@ Problem Solving
 | [2174-next-greater-numerically-balanced-number](https://github.com/ranjithkumars001/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ranjithkumars001/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/ranjithkumars001/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ranjithkumars001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ranjithkumars001/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ranjithkumars001/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -124,6 +126,7 @@ Problem Solving
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/ranjithkumars001/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Simulation
 |  |
 | ------- |
