@@ -8,6 +8,7 @@ Problem Solving
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkumars001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ranjithkumars001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ranjithkumars001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ranjithkumars001/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -89,6 +90,7 @@ Problem Solving
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ranjithkumars001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ranjithkumars001/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -122,6 +124,7 @@ Problem Solving
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ranjithkumars001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ranjithkumars001/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ranjithkumars001/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ranjithkumars001/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
