@@ -10,6 +10,7 @@ Problem Solving
 | [0027-remove-element](https://github.com/ranjithkumars001/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ranjithkumars001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ranjithkumars001/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ranjithkumars001/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ranjithkumars001/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ranjithkumars001/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/ranjithkumars001/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -152,6 +153,7 @@ Problem Solving
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ranjithkumars001/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ranjithkumars001/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ranjithkumars001/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ranjithkumars001/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ranjithkumars001/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
